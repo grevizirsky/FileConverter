@@ -1,0 +1,27 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="PdfConverter.MainWindow"
+        Title="PdfConverter">
+    
+        <StackPanel Spacing="15" Margin="20">
+                <TextBlock Text="Selecione o arquivo que voce deseja converter:"
+                           FontSize="14"
+                           HorizontalAlignment="Center"/>
+                
+                <Button x:Name="SelectFileBtn"
+                        Content="Selecione o arquivo..."
+                        Click="OnSelectFileClicked"
+                        HorizontalAlignment="Stretch"
+                        HorizontalContentAlignment="Center"
+                        Padding="10"/>
+                
+                <TextBlock x:Name="FilePathTextBox"
+                           Text="Nenhum arquivo selecionado"
+                           TextWrapping="Wrap"
+                           VerticalAlignment="Center"
+                           HorizontalAlignment="Center"/>
+        </StackPanel>
+</Window>

@@ -23,5 +23,15 @@
                            TextWrapping="Wrap"
                            VerticalAlignment="Center"
                            HorizontalAlignment="Center"/>
+                
+                <Grid Margin="5"
+                      ColumnDefinitions="Auto, Auto, Auto"
+                      RowDefinitions="Auto"
+                      ColumnSpacing="10"
+                      HorizontalAlignment="Center">
+                    <Button Grid.Row="0" Grid.Column="0">Converter para Epub</Button>
+                    <Button Grid.Row="0" Grid.Column="1">Converter para Mobi</Button>
+                    <Button Grid.Row="0" Grid.Column="2">Converter para Pdf</Button>
+                </Grid>
         </StackPanel>
 </Window>

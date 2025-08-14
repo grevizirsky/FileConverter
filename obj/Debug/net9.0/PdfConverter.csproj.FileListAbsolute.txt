@@ -71,3 +71,4 @@
 /Users/adriano_grevizirsky/Documents/Programing/PdfConverter/obj/Debug/net9.0/PdfConverter.pdb
 /Users/adriano_grevizirsky/Documents/Programing/PdfConverter/obj/Debug/net9.0/PdfConverter.genruntimeconfig.cache
 /Users/adriano_grevizirsky/Documents/Programing/PdfConverter/obj/Debug/net9.0/ref/PdfConverter.dll
+/Users/adriano_grevizirsky/Documents/Programing/PdfConverter/obj/Debug/net9.0/PdfConverter.sourcelink.json

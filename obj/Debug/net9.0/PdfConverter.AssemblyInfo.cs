@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfConverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4e7536d629d9be5481eb8abeb62fc5f3e347320")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfConverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfConverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
